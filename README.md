@@ -1,4 +1,5 @@
 ![image alt](https://github.com/sidhantloungani1/UnityUplift/blob/487bffcb5bfa829f5edc2479565daab3d6740fa1/logo.png)
+
 Students face challenges in obtaining scholarship due to intricate application process, and a
 lack of awareness about diverse scholarship program further limits their access to educational
 funding. The absence of a streamlined platform compounds the difficulties. Our comprehensive
