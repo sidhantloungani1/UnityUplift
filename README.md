@@ -10,5 +10,5 @@ chances but also provides detailed reports, empowering students with information
 informed choices about their educational funding opportunities.
 
 #Student Dashboard
-![image alt]https://github.com/sidhantloungani1/UnityUplift/blob/95e1ae2a14d1472cd9e16de6c8c5c23820bb7c75/images/Dashboard2.png
+![image alt](https://github.com/sidhantloungani1/UnityUplift/blob/95e1ae2a14d1472cd9e16de6c8c5c23820bb7c75/images/Dashboard2.png)
 
